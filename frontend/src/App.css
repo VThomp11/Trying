@@ -1,0 +1,44 @@
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #59595c;
+}
+
+.container {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  color: #333;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+  padding: 15px;
+  border: 1px solid #ddd;
+  background-color: #fff;
+  border-radius: 8px;
+}
+
+Link {
+  text-decoration: none;
+  color: #007bff;
+}
+
+Link:hover {
+  text-decoration: underline;
+}
+
+.routes-container {
+  margin-top: 20px;
+}
